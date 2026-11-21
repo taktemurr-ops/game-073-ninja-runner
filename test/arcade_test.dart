@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_073_ninja_runner/core/arcade.dart';
-import 'package:game_073_ninja_runner/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_073_ninja_runner/game/runner_engine.dart';
 import 'package:game_073_ninja_runner/game/rules.dart';
 
